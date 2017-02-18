@@ -14,9 +14,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-<resources>
-    <color name="colorPrimary">#FF9800</color>
-    <color name="colorPrimaryDark">#E65100</color>
-    <color name="colorAccent">#2E7D32</color>
-    <color name="colorTitle">#ffffff</color>
-</resources>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:color="#999999"
+        android:state_enabled="false"/>
+    <item
+        android:color="@color/colorAccent"
+        android:state_enabled="true"/>
+</selector>
