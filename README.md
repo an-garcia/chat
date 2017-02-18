@@ -16,6 +16,7 @@ Pre-requisites
 Dependencies
 --------------
 - Glide library https://github.com/bumptech/glide
+- Firebase authentication https://github.com/firebase/FirebaseUI-Android https://firebase.google.com/docs/auth/
 
 
 
