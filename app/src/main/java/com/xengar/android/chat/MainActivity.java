@@ -196,10 +196,13 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        switch (id) {
+            case R.id.action_settings:
+                return true;
+            case R.id.sign_out_menu:
+                AuthUI.getInstance().signOut(this);
+                return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
