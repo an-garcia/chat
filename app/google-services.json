@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585650781796",
+    "firebase_url": "https://chat-e118a.firebaseio.com",
+    "project_id": "chat-e118a",
+    "storage_bucket": "chat-e118a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585650781796:android:fa0404b45f1cf102",
+        "android_client_info": {
+          "package_name": "com.xengar.android.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585650781796-fdaii42bq7iiu2rbe0rdeufskrih4nmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xengar.android.chat",
+            "certificate_hash": "A8F04F7D7E4AD427AF9BC21DECDDEA72102D6EC4"
+          }
+        },
+        {
+          "client_id": "585650781796-r33qs3at1l9bcbqruf41c94cugitmi54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jImemMGfpS8m-6124kQi5MDpjXpEPPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585650781796-r33qs3at1l9bcbqruf41c94cugitmi54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
