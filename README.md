@@ -11,6 +11,7 @@ Chat is an app that allows users to send and receive text and photos in real tim
 Pre-requisites
 --------------
 - Setup requires creating a Firebase project. See https://firebase.google.com/
+  https://firebase.google.com/docs/android/setup
 
 
 Dependencies
