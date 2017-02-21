@@ -1,7 +1,7 @@
 Chat
 ============
 
-![alt tag](https://github.com/an-garcia/chat/blob/master/readmeImages/Screenshot_20170218-180956.png)
+![Scheme](/readmeImages/Screenshot_20170218-180956.png)
 
 Sample Android application to learn to use Firebase based in [course](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 Original project [FriendlyChat](https://github.com/udacity/and-nd-firebase)
